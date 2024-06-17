@@ -1,7 +1,7 @@
 ![logo](https://github.com/adarshkumarc/adarshkumarc/blob/main/anders-jilden-GjwsHRIcQjU-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Adarsh Gurjar</h1>
 <h3 align="center">A passionate software developement</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fef%2F2d%2Fb0%2Fef2db0885d94fd149a4b7914923bb2a3.gif&tbnid=BwXJS1ZbagjzHM&vet=12ahUKEwitgPXhuKGEAxW5TmwGHQKzB7IQMygcegUIARCkAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgeometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777%2F&docid=Y8-15NyNEUEa5M&w=540&h=540&q=coding%20animation%20gif&client=safari&ved=2ahUKEwitgPXhuKGEAxW5TmwGHQKzB7IQMygcegUIARCkAQ![image](https://github.com/adarshkumarc/adarshkumarc/assets/158771139/83bd2205-eb0e-4237-aba2-b259a4e784c9)
+<img align=“right” alt=“coding” width=“450” src=“https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fef%2F2d%2Fb0%2Fef2db0885d94fd149a4b7914923bb2a3.gif&tbnid=BwXJS1ZbagjzHM&vet=12ahUKEwitgPXhuKGEAxW5TmwGHQKzB7IQMygcegUIARCkAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgeometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777%2F&docid=Y8-15NyNEUEa5M&w=540&h=540&q=coding%20animation%20gif&client=safari&ved=2ahUKEwitgPXhuKGEAxW5TmwGHQKzB7IQMygcegUIARCkAQ![image](https://github.com/adarshkumarc/adarshkumarc/assets/158771139/83bd2205-eb0e-4237-aba2-b259a4e784c9)
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshgurjarc&label=Profile%20views&color=0e75b6&style=flat" alt="adarshgurjarc" /> </p>
 
