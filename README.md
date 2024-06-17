@@ -1,5 +1,10 @@
-### hi there 👋 
-I am Adarsh from India, and i do content and development .i really enjoy learning language and frameworks like React Native , as well as  work in Wordpress.
-I also enjoy wireframing , Web development and ui,ux  design in general.You can check out my linkedin at linkedin.com/in/adarsh-gurjar-325482231.
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adarshkumarc )
-https://media.istockphoto.com/id/1486987406/photo/ai-technology-artificial-intelligence-let-artificial-intelligence-help-create-what-you-want.jpg?s=612x612&w=0&k=20&c=iHRb4qzTByEkvY-krowiYX0SxeYfFCQPIJKXKfGpFtw=
+### Hi there 👋, my name is Adarsh
+#### Design and Development
+![Design and Development](https://unsplash.com/photos/black-flat-screen-computer-monitor-8qEB0fTe9Vw)
+
+ am Adarsh from India, and i do content and development .i really enjoy learning language and frameworks like React Native , as well as work in Wordpress. I also enjoy wireframing , Web development and ui,ux design in general.
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adarshkumarc )
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
